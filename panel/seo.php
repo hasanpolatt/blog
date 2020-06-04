@@ -15,7 +15,7 @@
     elseif(isset($_GET['status'])=='fail'){ ?>
   <script>  Swal.fire({
     icon: 'error',
-    title: 'Hata',
+    title: 'Hataa',
     text: 'Islem Gerçekleştirilemedi..',
     })
   </script>
