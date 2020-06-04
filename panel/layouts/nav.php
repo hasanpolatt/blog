@@ -1,12 +1,16 @@
 <?php
 include 'func/conn.php';
+$ayarsor=$db->prepare("SELECT * FROM ayar where id=1");
+$ayarsor->execute(array(0));
+$ayarcek=$ayarsor->fetch(PDO::FETCH_ASSOC); ?>
+?>
 ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Admin  | Panel</title>
+  <title><?php echo $ayarcek['title'] ?></title>
   <!-- Tell the browser to be responsive to screen width -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- Font Awesome -->
@@ -184,7 +188,7 @@ include 'func/conn.php';
           <!-- Add icons to the links using the .nav-icon class
                with font-awesome or any other icon font library -->
           <li class="nav-item">
-            <a href="#" class="nav-link active">
+            <a href="index.php" class="nav-link active">
               <i class="nav-icon fas fa-tachometer-alt"></i>
               <p>
                 Anasayfa
@@ -226,22 +230,26 @@ include 'func/conn.php';
           </li>
 
             <li class="nav-item has-treeview">
-                <a href="#" class="nav-link">
-                    <i class="nav-icon fas fa-cog"></i>
+                <a href="icerik.php" class="nav-link">
+                    <i class="nav-icon fas fa-align-left"></i>
                     <p>
-                        Sayfa Ayarları
+                        İçerik İşlemleri
                         <i class="fas fa-angle-left right"></i>
                     </p>
                 </a>
-                <ul class="nav nav-treeview">
-                    <li class="nav-item">
-                        <a href="seo.php" class="nav-link">
-                            <i class="fa fa-bookmark nav-icon"></i>
-                            <p>SEO</p>
-                        </a>
-                    </li>
 
-                </ul>
+
+            </li>
+
+            <li class="nav-item has-treeview">
+                <a href="kategori.php" class="nav-link">
+                    <i class="nav-icon fas fa-layer-group"></i>
+                    <p>
+                        Kategori
+                        <i class="fas fa-angle-left right"></i>
+                    </p>
+                </a>
+
             </li>
 
 
