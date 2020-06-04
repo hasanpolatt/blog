@@ -47,7 +47,7 @@
                 <form role="form">
                 <div class="card-body">
                   <div class="form-group">
-                    <label for="exampleInputEmail1">Telefon Numarası</label>
+                    <label for="exampleInputEmail1">Telefon Numarasıı</label>
                     <input type="number" name="phone" class="form-control" id="exampleInputEmail1"
                            value="<?php echo $ayarcek['phone'] ?>">
                   </div>
