@@ -189,6 +189,7 @@
             </a>
             
           </li>
+
            <li class="nav-item has-treeview">
             <a href="#" class="nav-link">
               <i class="nav-icon fas fa-cog"></i>
@@ -218,12 +219,31 @@
               </li>
             </ul>
           </li>
-        
-
-              
-       
           </li>
-          
+
+            <li class="nav-item has-treeview">
+                <a href="#" class="nav-link">
+                    <i class="nav-icon fas fa-cog"></i>
+                    <p>
+                        Sayfa Ayarları
+                        <i class="fas fa-angle-left right"></i>
+                    </p>
+                </a>
+                <ul class="nav nav-treeview">
+                    <li class="nav-item">
+                        <a href="seo.php" class="nav-link">
+                            <i class="fa fa-bookmark nav-icon"></i>
+                            <p>SEO</p>
+                        </a>
+                    </li>
+
+                </ul>
+            </li>
+
+
+
+
+            </li>
         
         </ul>
       </nav>

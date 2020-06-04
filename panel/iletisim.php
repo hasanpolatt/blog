@@ -19,21 +19,25 @@
               <form role="form">
                 <div class="card-body">
                   <div class="form-group">
-                    <label for="exampleInputEmail1">Adres</label>
-                    <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Site başlığı giriniz..">
+                    <label for="exampleInputEmail1">Telefon Numarası</label>
+                    <input type="text" name="phone" class="form-control" id="exampleInputEmail1" placeholder="Site başlığı giriniz..">
                   </div>
                      <div class="form-group">
-                    <label for="exampleInputEmail1">İletişim Numarası</label>
-                    <input type="number" class="form-control" id="exampleInputEmail1" placeholder="Site keywords giriniz..">
+                    <label for="exampleInputEmail1">Mail Adresi</label>
+                    <input type="number" name="mail" class="form-control" id="exampleInputEmail1" placeholder="Site keywords giriniz..">
                   </div>
-                
+                    <div class="form-group">
+                        <label for="exampleInputEmail1">Adres</label>
+                        <input type="number" name="adress" class="form-control" id="exampleInputEmail1" placeholder="Site keywords giriniz..">
+                    </div>
+
                 
             
                 
                 <!-- /.card-body -->
 
                 <div class="card-footer">
-                  <button type="submit" class="btn btn-primary">Kaydet</button>
+                  <button type="submit" name="seokaydet" class="btn btn-primary">Kaydet</button>
                 </div>
               </form>
             </div>
