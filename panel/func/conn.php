@@ -2,7 +2,7 @@
 
 ob_start();
 $id = 'root';
-$pass = 'Sanane2121.';
+$pass = '976431root';
 try {
 
     $db = new PDO("mysql:host=localhost;port=3306;dbname=blog", $id, $pass);

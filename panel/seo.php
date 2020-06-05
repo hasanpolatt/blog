@@ -67,9 +67,7 @@
 
 
 
-                
-            
-                
+
                 <!-- /.card-body -->
 
                 <div class="card-footer">
