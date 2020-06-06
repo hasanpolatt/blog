@@ -62,7 +62,6 @@
                                             title="Remove">
                                         <i class="fas fa-times"></i></button>
 
-                                <!-- /. tools -->
                             </div>
                             <!-- /.card-header -->
                             <div class="card-body pad">
