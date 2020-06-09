@@ -36,10 +36,16 @@
                                 </tr>
                                 </thead>
                                 <tbody>
+                                <img width="50" src="img/posts/5.jpg">
+                                <?php
+                                $iceriksor=$db->prepare("SELECT * FROM posts");
+                                $iceriksor->execute(array(0));
+                                while($icerikcek=$iceriksor->fetch(PDO::FETCH_ASSOC)) {?>
+
                                 <tr>
-                                    <td>04.06.2020</td>
-                                    <td>first</td>
-                                    <td></td>
+                                    <td><?php echo $icerikcek['date'];  ?></td>
+                                    <td><?php echo $icerikcek['title'];  ?></td>
+                                    <td><img width="50" src="<?php echo $icerikcek['image_yol']; ?>"></td>
                                     <td></td>
                                     <td>
                                         <button style="width: 100px;" type="button" class="btn btn-block btn-primary">Düzenle</button>
@@ -48,19 +54,8 @@
                                         <button style="width: 60px;" type="button" class="btn btn-block btn-danger">Sil</button>
                                     </td>
                                 </tr>
-                                <tr>
-                                    <td>04.06.2020</td>
-                                    <td>second</td>
-                                    <td></td>
-                                    <td></td>
-                                    <td>
-                                        <button style="width: 100px;" type="button" class="btn btn-block btn-primary">Düzenle</button>
-                                    </td>
-                                    <td>
-                                        <button style="width: 60px;" type="button" class="btn btn-block btn-danger">Sil</button>
-                                    </td>
-                                </tr>
-                                <tr>
+                                <?php } ?>
+
 
                                 </tr>
                                 </tbody>

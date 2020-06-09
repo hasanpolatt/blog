@@ -118,7 +118,7 @@
 				<div class="row align-items-center justify-content-between">
 					<div class="logo-block col-auto">
 						<div class="site-logo">
-							<a data-magic-cursor="link" href="index.php"><img alt="Plaxer" class="light" src="images/logo44.png"><img alt="Plaxer" class="dark" src="images/logo.png"></a>
+							<a data-magic-cursor="link" href="index.php"><img alt="Plaxer" class="light" src="images/logo1.png"><img alt="Plaxer" class="dark" src="images/logo1.png">
 						</div>
 					</div>
 					<div class="right col-auto">

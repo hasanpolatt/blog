@@ -1,12 +1,12 @@
 <footer class="site-footer">
 			<div class="scroll-to-top-button">
-				<i class="base-icon-next-1"></i><span>back to top</span>
+				<i class="base-icon-next-1"></i><span>başa dön</span>
 			</div>
 			<div class="container">
 				<div class="row">
 					<div class="col-12 col-md-3">
 						<div class="site-logo">
-							<a data-magic-cursor="link" href="index.html"><img alt="Plaxer" class="light" src="wp-content/uploads/2019/12/logo-light.png"><img alt="Plaxer" class="dark" src="wp-content/uploads/2019/12/logo-dark.png"></a>
+							<a data-magic-cursor="link" href="index.php"><img alt="Plaxer" class="light" src="images/logo1.png"><img alt="Plaxer" class="dark" src="images/logo1.png"></a>
 						</div>
 						<div class="widget widget_text" id="text-2">
 							<div class="textwidget">
@@ -51,7 +51,7 @@
 					</div>
 					<div class="col-12 col-sm-4 col-md-3">
 						<div class="widget_text widget widget_custom_html" id="custom_html-4">
-							<h6 class="widget-title">Address</h6>
+							<h6 class="widget-title">Adres</h6>
 							<div class="textwidget custom-html-widget">
 								<p>Baker Street 223b London, CA 70413<br>
 								<strong>Open:</strong> 9:30 AM 5:30PM</p>
@@ -81,33 +81,23 @@
 					</div>
 					<div class="col-12 col-sm-4 col-md-3">
 						<div class="widget widget_recent_entries" id="recent-posts-3">
-							<h6 class="widget-title">Recent Posts</h6>
+							<h6 class="widget-title">Son Gönderiler</h6>
 							<ul>
 								<li>
 									<a href="pubg/kills-you-slowly-2/index.html">Kills You Slowly</a> <span class="post-date">November 8, 2019</span>
 								</li>
-								<li>
-									<a href="dota-2/clout/index.html">Clout</a> <span class="post-date">April 22, 2019</span>
-								</li>
-								<li>
-									<a href="gs-go/jerome/index.html">Jerome</a> <span class="post-date">April 22, 2019</span>
-								</li>
+
 							</ul>
 						</div>
 					</div>
 					<div class="col-12 col-sm-4 col-md-3">
 						<div class="widget widget_recent_comments" id="recent-comments-3">
-							<h6 class="widget-title">Recent Comments</h6>
+							<h6 class="widget-title">Son Yorumlar</h6>
 							<ul id="recentcomments">
 								<li class="recentcomments">
 									<span class="comment-author-link">Elena Cobsky</span> - <a href="streams/driving-engagement-online/index.html#comment-7">Driving Engagement Online</a>
 								</li>
-								<li class="recentcomments">
-									<span class="comment-author-link">John Michel</span> - <a href="pubg/designing-for-the-web-in-2019/index.html#comment-6">Designing for the Web in 2019</a>
-								</li>
-								<li class="recentcomments">
-									<span class="comment-author-link">Anton Stockman</span> - <a href="gs-go/streamlining-the-path-to-conversion/index.html#comment-5">Streamlining the Path to Conversion</a>
-								</li>
+
 							</ul>
 						</div>
 					</div>

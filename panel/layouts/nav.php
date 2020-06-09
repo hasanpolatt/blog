@@ -3,8 +3,7 @@ include 'func/conn.php';
 $ayarsor=$db->prepare("SELECT * FROM ayar where id=1");
 $ayarsor->execute(array(0));
 $ayarcek=$ayarsor->fetch(PDO::FETCH_ASSOC); ?>
-?>
-?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
