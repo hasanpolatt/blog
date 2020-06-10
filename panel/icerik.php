@@ -44,8 +44,8 @@
 
                                 <tr>
                                     <td><?php echo $icerikcek['date'];  ?></td>
-                                    <td><?php echo $icerikcek['title'];  ?></td>
-                                    <td><img width="50" src="<?php echo $icerikcek['image_yol']; ?>"></td>
+                                    <td><?php echo $icerikcek['image_yol'];  ?></td>
+                                    <td><img width="50" src="<?php echo $icerikcek['image_yol'];  ?>"></td>
                                     <td></td>
                                     <td>
                                         <button style="width: 100px;" type="button" class="btn btn-block btn-primary">Düzenle</button>

@@ -78,7 +78,7 @@ if(isset($_POST['icerikekle'])){
 
     $refimgyoll=substr($uploads_dir,3)."/".$benzersizad.$name;
 
-    @move_uploaded_file($tmp_name,"$uploads_dir/$benzersizad.$name");
+    @move_uploaded_file($tmp_name,"$uploads_dir/$benzersizad$name");
 
 
 

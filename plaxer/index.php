@@ -415,11 +415,45 @@
                       </div>
                     </div>
                     <div class="links">
-                      <a class="stream-link twitch" href="#" target="_blank"><i class="fa fa-github-square" rel="stylesheet"></i><span>GitHub</span></a>
+                      <a class="stream-link twitch" href="https://github.com/tygrysco" target="_blank"><img src="images/pngwave1.png"></i><span>    GitHub</span></a>
                     </div>
                   </div>
                 </div>
-                <div class="loadmore-button-block tac">
+                  <div class="load-wrap isotope">
+                      <div class="match-item event-box istp-item category-cs-go">
+                          <div class="wrap">
+                              <div class="game-team">
+                                  <div class="item">
+                                      <div class="sticker">
+                                          win
+                                      </div>
+                                      <div class="logo"><img alt="" class="attachment-thumbnail size-thumbnail" height="150" sizes="(max-width: 150px) 100vw, 150px" src="wp-content/uploads/2019/12/game-team-logo3-150x150.png" srcset="https://promo-theme.com/plaxer/wp-content/uploads/2019/12/game-team-logo3-150x150.png 150w, https://promo-theme.com/plaxer/wp-content/uploads/2019/12/game-team-logo3-150x150@2x.png 300w, https://promo-theme.com/plaxer/wp-content/uploads/2019/12/game-team-logo3-70x70.png 70w, https://promo-theme.com/plaxer/wp-content/uploads/2019/12/game-team-logo3-100x100.png 100w, https://promo-theme.com/plaxer/wp-content/uploads/2019/12/game-team-logo3.png 512w, https://promo-theme.com/plaxer/wp-content/uploads/2019/12/game-team-logo3-70x70@2x.png 140w, https://promo-theme.com/plaxer/wp-content/uploads/2019/12/game-team-logo3-100x100@2x.png 200w" width="150"></div>
+                                      <div class="title">
+                                          CLIKLAV
+                                      </div>
+                                      <div class="points">
+                                          136
+                                      </div>
+                                  </div>
+
+
+                              </div>
+                              <div class="content">
+                                  <div class="heading">
+                                      <a class="link" href="match/esport-league-cs-go-division/index.html">eSport League &#8211; CS GO Division</a>
+                                  </div>
+                                  <div class="date">
+                                      Dec.25.2020 - 4:00 pm
+                                  </div>
+                              </div>
+                          </div>
+                          <div class="links">
+                              <a class="stream-link twitch" href="https://github.com/g3ntl3m3n" target="_blank"><img src="images/pngwave1.png"></i><span>    GitHub</span></a>
+                          </div>
+                      </div>
+                  </div>
+
+                  <div class="loadmore-button-block tac">
                   <a class="loadmore-button button-style2" data-action="matches" data-array="[{&quot;id&quot;:2391,&quot;cat&quot;:[&quot;fortnite&quot;]},{&quot;id&quot;:2392,&quot;cat&quot;:[&quot;pubg&quot;]}]" data-atts="{&quot;uniqid&quot;:&quot;5dea249adb32b&quot;,&quot;count&quot;:&quot;4&quot;,&quot;filter_buttons&quot;:&quot;on&quot;,&quot;navigation&quot;:&quot;load_more&quot;,&quot;css_animation&quot;:&quot;&quot;,&quot;orderby&quot;:&quot;post__in&quot;,&quot;order&quot;:&quot;ASC&quot;,&quot;source&quot;:&quot;&quot;,&quot;items&quot;:&quot;&quot;,&quot;categories&quot;:&quot;&quot;,&quot;css&quot;:&quot;{``mobile_portrait``: {``undefined``: ``Clear``},``mobile_landscape``: {``undefined``: ``Clear``},``tablet_portrait``: {``margin-top``: ``-65``,``undefined``: ``Clear``},``tablet_landscape``: {``undefined``: ``Clear``},``desktop``: {``undefined``: ``Clear``}}&quot;}" data-count="4" data-magic-cursor="link"><span>Load More</span> <span class="load-dots"><em></em></span></a>
                 </div>
               </div>
