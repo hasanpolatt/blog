@@ -138,26 +138,36 @@
 													<button class="button current" data-filter="*"><span>Hepsi</span></button> <button class="button" data-filter=".category-dota-2"><span>Oyun</span></button> <button class="button" data-filter=".category-fortnite"><span>Kodlama</span></button> <button class="button" data-filter=".category-gs-go"><span>Teknoloji</span></button> <button class="button" data-filter=".category-pubg"><span>Haber</span></button>
 												</div>
 											</div>
+
+
 											<div class="blog-items row isotope blog-grid load-wrap" data-rows="1">
 												<div class="grid-sizer col-1"></div>
-												<article class="blog-item category-gs-go col-12 col-md-4 istp-item">
+                                                <?php
+                                                $iceriksor=$db->prepare("SELECT * FROM posts");
+                                                $iceriksor->execute(array(0));
+                                                while($icerikcek=$iceriksor->fetch(PDO::FETCH_ASSOC)) {?>
+
+                                                <article class="blog-item category-gs-go col-12 col-md-4 istp-item">
 													<div class="wrap">
 														<div class="img">
-															<a href="single.php" style="background-image: url(wp-content/uploads/2019/12/img1-1024x576.jpg)"></a>
+															<a href="single.php" style="background-image: url(../panel/<?php echo $icerikcek['image_yol'] ?>)"></a>
 														</div>
 														<div class="date">
-															April 22, 2019
+															<?php echo $icerikcek['date']; ?>
 														</div>
-														<h6 class="title"><a href="single.php">Streamlining the Path to Conversion</a></h6>
+														<h6 class="title"><a href="single.php"><?php echo $icerikcek['title']; ?></a>
+                                                        </h6>
 														<div class="button">
-															<a class="button-style2" href="single.php"><span>Read More</span></a>
+															<a class="button-style2" href="single.php"><span>Daha Fazla</span></a>
 														</div>
 													</div>
 												</article>
-												
+                                                <?php } ?>
 											</div>
+
 											<div class="loadmore-button-block tac">
-												<a class="loadmore-button button-style2" data-action="blog" data-array="[{&quot;id&quot;:480,&quot;cat&quot;:[&quot;pubg&quot;]},{&quot;id&quot;:481,&quot;cat&quot;:[&quot;pubg&quot;]},{&quot;id&quot;:482,&quot;cat&quot;:[&quot;pubg&quot;]},{&quot;id&quot;:483,&quot;cat&quot;:[&quot;pubg&quot;]},{&quot;id&quot;:484,&quot;cat&quot;:[&quot;pubg&quot;]},{&quot;id&quot;:485,&quot;cat&quot;:[&quot;pubg&quot;]},{&quot;id&quot;:486,&quot;cat&quot;:[&quot;gs-go&quot;]},{&quot;id&quot;:490,&quot;cat&quot;:[&quot;dota-2&quot;]},{&quot;id&quot;:491,&quot;cat&quot;:[&quot;pubg&quot;]},{&quot;id&quot;:492,&quot;cat&quot;:[&quot;fortnite&quot;]},{&quot;id&quot;:493,&quot;cat&quot;:[&quot;gs-go&quot;]},{&quot;id&quot;:494,&quot;cat&quot;:[&quot;dota-2&quot;]},{&quot;id&quot;:1473,&quot;cat&quot;:[&quot;pubg&quot;]}]" data-atts="{&quot;uniqid&quot;:&quot;5df871567405c&quot;,&quot;count_items&quot;:&quot;9&quot;,&quot;type&quot;:&quot;grid&quot;,&quot;grid_style&quot;:&quot;style1&quot;,&quot;cols&quot;:&quot;xs:1,md:3&quot;,&quot;rows&quot;:&quot;1&quot;,&quot;navigation_arrows&quot;:&quot;on&quot;,&quot;filter_buttons&quot;:&quot;on&quot;,&quot;filter_buttons_align&quot;:&quot;tal&quot;,&quot;navigation&quot;:&quot;load_more&quot;,&quot;short_description_size&quot;:&quot;&quot;,&quot;date_format&quot;:&quot;F j, Y&quot;,&quot;css_animation&quot;:&quot;&quot;,&quot;show_featured_image&quot;:&quot;on&quot;,&quot;show_heading&quot;:&quot;on&quot;,&quot;show_date&quot;:&quot;on&quot;,&quot;show_read_more&quot;:&quot;on&quot;,&quot;orderby&quot;:&quot;post__in&quot;,&quot;order&quot;:&quot;ASC&quot;,&quot;source&quot;:&quot;&quot;,&quot;items&quot;:&quot;&quot;,&quot;categories&quot;:&quot;&quot;,&quot;css&quot;:&quot;&quot;}" data-count="9" data-magic-cursor="link" data-type="grid"><span>Load More</span> <span class="load-dots"><em></em></span></a>
+												<a class="loadmore-button button-style2" data-action="blog"
+                                                   data-array="[{&quot;id&quot;:480,&quot;cat&quot;:[&quot;pubg&quot;]},{&quot;id&quot;:481,&quot;cat&quot;:[&quot;pubg&quot;]},{&quot;id&quot;:482,&quot;cat&quot;:[&quot;pubg&quot;]},{&quot;id&quot;:483,&quot;cat&quot;:[&quot;pubg&quot;]},{&quot;id&quot;:484,&quot;cat&quot;:[&quot;pubg&quot;]},{&quot;id&quot;:485,&quot;cat&quot;:[&quot;pubg&quot;]},{&quot;id&quot;:486,&quot;cat&quot;:[&quot;gs-go&quot;]},{&quot;id&quot;:490,&quot;cat&quot;:[&quot;dota-2&quot;]},{&quot;id&quot;:491,&quot;cat&quot;:[&quot;pubg&quot;]},{&quot;id&quot;:492,&quot;cat&quot;:[&quot;fortnite&quot;]},{&quot;id&quot;:493,&quot;cat&quot;:[&quot;gs-go&quot;]},{&quot;id&quot;:494,&quot;cat&quot;:[&quot;dota-2&quot;]},{&quot;id&quot;:1473,&quot;cat&quot;:[&quot;pubg&quot;]}]" data-atts="{&quot;uniqid&quot;:&quot;5df871567405c&quot;,&quot;count_items&quot;:&quot;9&quot;,&quot;type&quot;:&quot;grid&quot;,&quot;grid_style&quot;:&quot;style1&quot;,&quot;cols&quot;:&quot;xs:1,md:3&quot;,&quot;rows&quot;:&quot;1&quot;,&quot;navigation_arrows&quot;:&quot;on&quot;,&quot;filter_buttons&quot;:&quot;on&quot;,&quot;filter_buttons_align&quot;:&quot;tal&quot;,&quot;navigation&quot;:&quot;load_more&quot;,&quot;short_description_size&quot;:&quot;&quot;,&quot;date_format&quot;:&quot;F j, Y&quot;,&quot;css_animation&quot;:&quot;&quot;,&quot;show_featured_image&quot;:&quot;on&quot;,&quot;show_heading&quot;:&quot;on&quot;,&quot;show_date&quot;:&quot;on&quot;,&quot;show_read_more&quot;:&quot;on&quot;,&quot;orderby&quot;:&quot;post__in&quot;,&quot;order&quot;:&quot;ASC&quot;,&quot;source&quot;:&quot;&quot;,&quot;items&quot;:&quot;&quot;,&quot;categories&quot;:&quot;&quot;,&quot;css&quot;:&quot;&quot;}" data-count="9" data-magic-cursor="link" data-type="grid"><span>Daha Fazla</span> <span class="load-dots"><em></em></span></a>
 											</div>
 										</div>
 									</div>

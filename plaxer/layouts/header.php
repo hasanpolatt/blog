@@ -1,3 +1,9 @@
+<?php
+include '../panel/func/conn.php';
+$ayarsor=$db->prepare("SELECT * FROM ayar where id=1");
+$ayarsor->execute(array(0));
+$ayarcek=$ayarsor->fetch(PDO::FETCH_ASSOC); ?>
+
 <!DOCTYPE html>
 <html lang="en-US">
 <!-- Mirrored from promo-theme.com/plaxer/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 06 Jun 2020 12:33:22 GMT -->
@@ -8,7 +14,7 @@
 	<meta content="width=device-width, initial-scale=1" name="viewport">
 	<link href="http://gmpg.org/xfn/11" rel="profile">
 	<meta content="#000" name="theme-color">
-	<title>Plaxer &#8211; Just another WordPress site</title>
+	<title><?php echo $ayarcek['title'] ?></title>
 	<link href='http://use.typekit.net/' rel='dns-prefetch'>
 	<link href='http://s.w.org/' rel='dns-prefetch'>
 	<link href="feed/index.php" rel="alternate" title="Plaxer &raquo; Feed" type="application/rss+xml">
