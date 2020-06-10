@@ -23,7 +23,7 @@
                                 <label for="exampleInputFile">File input</label>
                                 <div class="input-group">
                                     <div class="custom-file">
-                                        <input name="image_yol" type="file" class="custom-file-input" id="exampleInputFile">
+                                        <input name="image_yol" type="file" class="custom-file-input" id="image_yol">
                                         <label class="custom-file-label" for="exampleInputFile">Choose file</label>
                                     </div>
                                     <div class="input-group-append">
@@ -37,8 +37,10 @@
                             <div class="form-group col-md-8">
                                 <label>Tarih ve Saat</label>
                                 <div class="input-group date" id="reservationdate" data-target-input="nearest">
-                                    <input name="date" type="text" class="form-control datetimepicker-input" data-target="#reservationdate"/>
-                                    <div class="input-group-append" data-target="#reservationdate" data-toggle="datetimepicker">
+                                    <input name="date" type="text" class="form-control datetimepicker-input"
+                                           data-target="#reservationdate"/>
+                                    <div class="input-group-append" data-target="#reservationdate"
+                                         data-toggle="datetimepicker">
                                         <div class="input-group-text"><i class="fa fa-calendar"></i></div>
                                     </div>
                                 </div>

@@ -67,40 +67,40 @@ if(isset($_POST['sosyalkaydet'])){
 }
 if(isset($_POST['icerikekle'])){
     if(isset($_FILES['image_yol'])){
-    $uploads_dir="../img/posts";
-    $tmp_name=$_FILES['image_yol']["tmp_name"];
-    $name=$_FILES['image_yol']["name"];
-    $benzersizsayi1=rand(20000,32000);
-    $benzersizsayi2=rand(2000,32000);
-    $benzersizsayi3=rand(20000,32000);
-    $benzersizsayi4=rand(2000,32000);
-    $benzersizad=$benzersizsayi1.$benzersizsayi2.$benzersizsayi3.$benzersizsayi4;
+        $uploads_dir="../img/posts";
+        $tmp_name=$_FILES['image_yol']["tmp_name"];
+        $name=$_FILES['image_yol']["name"];
+        $benzersizsayi1=rand(20000,32000);
+        $benzersizsayi2=rand(2000,32000);
+        $benzersizsayi3=rand(20000,32000);
+        $benzersizsayi4=rand(2000,32000);
+        $benzersizad=$benzersizsayi1.$benzersizsayi2.$benzersizsayi3.$benzersizsayi4;
 
-    $refimgyoll=substr($uploads_dir,3)."/".$benzersizad.$name;
+        $refimgyoll=substr($uploads_dir,3)."/".$benzersizad.$name;
 
-    @move_uploaded_file($tmp_name,"$uploads_dir/$benzersizad$name");
+        @move_uploaded_file($tmp_name,"$uploads_dir/$benzersizad$name");
 
 
 
-    $add=$db->prepare("INSERT INTO posts (title,image_yol,
-		date, detail, keyword, status) VALUES ( :title,  :image_yol,
-		:date, :detail, :keyword, :status)");
-    $insert=$add->execute(array(
+        $add=$db->prepare("INSERT INTO posts (title,image_yol,
+    		date, detail, keyword, status) VALUES ( :title,  :image_yol,
+    		:date, :detail, :keyword, :status)");
+        $insert=$add->execute(array(
 
-        'title'=>$_POST['title'],
+            'title'=>$_POST['title'],
 
-        'image_yol' => $refimgyoll,
-        'date' => $_POST['date'],
-        'detail' => $_POST['detail'],
-        'keyword' => $_POST['keyword'],
-        'status' => $_POST['status']
+            'image_yol' => $refimgyoll,
+            'date' => $_POST['date'],
+            'detail' => $_POST['detail'],
+            'keyword' => $_POST['keyword'],
+            'status' => $_POST['status']
 
-    ));
-    if($insert){
-        header("Location:../icerik-ekle.php?status=success");
-    }else{
-        header("Location:../icerik-ekle.php?status=fail");
+        ));
+        if($insert){
+            header("Location:../icerik-ekle.php?status=success");
+        }else{
+            header("Location:../icerik-ekle.php?status=fail");
 
-    }
+        }
 }
 }

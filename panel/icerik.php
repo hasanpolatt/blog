@@ -30,22 +30,30 @@
                                     <th>İçerik Tarihi</th>
                                     <th>İçerik Adı</th>
                                     <th>İçerik Resmi</th>
+                                    <th>İçerik Detay</th>
                                     <th>İçerik Durumu</th>
                                     <th>Düzenle</th>
                                     <th>Sil</th>
                                 </tr>
                                 </thead>
                                 <tbody>
-                                <img width="50" src="img/posts/5.jpg">
+
                                 <?php
                                 $iceriksor=$db->prepare("SELECT * FROM posts");
-                                $iceriksor->execute(array(0));
-                                while($icerikcek=$iceriksor->fetch(PDO::FETCH_ASSOC)) {?>
-
+                                $iceriksor->execute();
+                               
+                                  $baseUrl = "http://localhost/uwu/blog/panel/";   
+                           
+                              while($icerikcek=$iceriksor->fetch(PDO::FETCH_ASSOC)) {?>
+                                
                                 <tr>
                                     <td><?php echo $icerikcek['date'];  ?></td>
-                                    <td><?php echo $icerikcek['image_yol'];  ?></td>
-                                    <td><img width="50" src="<?php echo $icerikcek['image_yol'];  ?>"></td>
+                                    <td><?php   echo $icerikcek['image_yol'];?></td>
+                                    <td>
+                                          <img height="100" width="100" src="<?php echo $icerikcek['image_yol']; ?>">
+
+                                    </td>
+                                    <td><?php echo $icerikcek['detail'] ?></td>
                                     <td></td>
                                     <td>
                                         <button style="width: 100px;" type="button" class="btn btn-block btn-primary">Düzenle</button>
