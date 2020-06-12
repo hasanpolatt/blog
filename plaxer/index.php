@@ -428,7 +428,7 @@
               </div>
               <div class="wpb_text_column wpb_content_element text-t2 wpb_text_column-5dede57148015">
                 <div class="wpb_wrapper">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.</p>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor isdncididunt ut labore et dolore.</p>
                 </div>
               </div>
               <div class="button-container button-5dede584995b7 left">
