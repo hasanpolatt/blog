@@ -80,15 +80,21 @@
 						</div>
 					</div>
 					<div class="col-12 col-sm-4 col-md-3">
-						<div class="widget widget_recent_entries" id="recent-posts-3">
 							<h6 class="widget-title">Son Gönderiler</h6>
+                            <?php
+                            $iceriksor=$db->prepare("SELECT * FROM posts ORDER BY title DESC LIMIT 2 ");
+                            $iceriksor->execute(array(0));
+                            while($icerikcek=$iceriksor->fetch(PDO::FETCH_ASSOC)) {?>
+                            <div class="widget widget_recent_entries" id="recent-posts-3">
 							<ul>
 								<li>
-									<a href="pubg/kills-you-slowly-2/index.html">Kills You Slowly</a> <span class="post-date">November 8, 2019</span>
+									<a href="pubg/kills-you-slowly-2/index.html"><?php echo $icerikcek['title'] ?></a>
+                                    <span class="post-date"><?php echo substr($icerikcek['detail'], 0,50) ?>...</span>
 								</li>
-
 							</ul>
+
 						</div>
+                            <?php } ?>
 					</div>
 					<div class="col-12 col-sm-4 col-md-3">
 						<div class="widget widget_recent_comments" id="recent-comments-3">
@@ -104,10 +110,10 @@
 				</div>
 				<div class="footer-bottom">
 					<div class="left-text">
-						© 2019, SOMO Theme by Promo Theme <a href="#">Team</a> | <a href="#">Privacy Policy</a> | <a href="#">Sitemap</a>
+						© 2019, Hasan Polat <a href="#">Team</a> | <a href="#">Privacy Policy</a>
 					</div>
 					<div class="right-text">
-						All Rights Reserved.
+						Tüm Hakları Saklıdır.
 					</div>
 				</div>
 			</div>

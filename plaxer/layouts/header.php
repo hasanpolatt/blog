@@ -98,7 +98,7 @@ $ayarcek=$ayarsor->fetch(PDO::FETCH_ASSOC); ?>
 	.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}
 	</style>
 	<meta content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress." name="generator">
-	<link href="wp-content/uploads/2019/12/cropped-favicon-70x70.png" rel="icon" sizes="32x32">
+	<link href="images/fav.png" rel="icon" sizes="32x32">
 	<link href="wp-content/uploads/2019/12/cropped-favicon-300x300.png" rel="icon" sizes="192x192">
 	<link href="wp-content/uploads/2019/12/cropped-favicon-300x300.png" rel="apple-touch-icon-precomposed">
 	<meta content="https://promo-theme.com/plaxer/wp-content/uploads/2019/12/cropped-favicon-300x300.png" name="msapplication-TileImage">

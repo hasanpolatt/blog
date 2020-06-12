@@ -143,7 +143,7 @@
                     <div class="swiper-slide">
                       <div class="banner-item banner-item-5de8ad22213fb tal">
                         <div class="bg-overlay">
-                          <div class="image" style="background-image: url(wp-content/uploads/2019/12/bg.jpg)"></div>
+                          <div class="image" style="background-image: url(images/bg.jpg)"></div>
                         </div>
                         <div class="container">
                           <div class="row full-height" style="">
@@ -373,77 +373,35 @@
               <div class="matches-block filter-block matches-block-5dea249adb32b">
                 <div class="filter-buttons tar">
                   <div class="wrap">
-                    <button class="button current" data-filter="*" data-magic-cursor="link-small"><span>Hepsi</span></button> <button class="button" data-filter=".category-cs-go" data-magic-cursor="link-small"><span>Oyun</span></button> <button class="button" data-filter=".category-dota-2" data-magic-cursor="link-small"><span>Kodlama</span></button> <button class="button" data-filter=".category-fortnite" data-magic-cursor="link-small"><span>Teknoloji</span></button> <button class="button" data-filter=".category-pubg" data-magic-cursor="link-small"><span>Haber</span></button>
-                  </div>
-                </div>
-                <div class="load-wrap isotope">
-                  <div class="match-item event-box istp-item category-cs-go">
-                    <div class="wrap">
-                      <div class="game-team">
-                        <div class="item">
-                          <div class="sticker">
-                            win
-                          </div>
-                          <div class="logo"><img alt="" class="attachment-thumbnail size-thumbnail" height="150" sizes="(max-width: 150px) 100vw, 150px" src="wp-content/uploads/2019/12/game-team-logo3-150x150.png" srcset="https://promo-theme.com/plaxer/wp-content/uploads/2019/12/game-team-logo3-150x150.png 150w, https://promo-theme.com/plaxer/wp-content/uploads/2019/12/game-team-logo3-150x150@2x.png 300w, https://promo-theme.com/plaxer/wp-content/uploads/2019/12/game-team-logo3-70x70.png 70w, https://promo-theme.com/plaxer/wp-content/uploads/2019/12/game-team-logo3-100x100.png 100w, https://promo-theme.com/plaxer/wp-content/uploads/2019/12/game-team-logo3.png 512w, https://promo-theme.com/plaxer/wp-content/uploads/2019/12/game-team-logo3-70x70@2x.png 140w, https://promo-theme.com/plaxer/wp-content/uploads/2019/12/game-team-logo3-100x100@2x.png 200w" width="150"></div>
-                          <div class="title">
-                            CLIKLAV
-                          </div>
-                          <div class="points">
-                            136
-                          </div>
-                        </div>
-                        <div class="sep">
-                          vs
-                        </div>
-                        <div class="item">
-                          <div class="logo"><img alt="" class="attachment-thumbnail size-thumbnail" height="150" sizes="(max-width: 150px) 100vw, 150px" src="wp-content/uploads/2019/12/game-team-logo4-150x150.png" srcset="https://promo-theme.com/plaxer/wp-content/uploads/2019/12/game-team-logo4-150x150.png 150w, https://promo-theme.com/plaxer/wp-content/uploads/2019/12/game-team-logo4-150x150@2x.png 300w, https://promo-theme.com/plaxer/wp-content/uploads/2019/12/game-team-logo4-70x70.png 70w, https://promo-theme.com/plaxer/wp-content/uploads/2019/12/game-team-logo4-100x100.png 100w, https://promo-theme.com/plaxer/wp-content/uploads/2019/12/game-team-logo4.png 512w, https://promo-theme.com/plaxer/wp-content/uploads/2019/12/game-team-logo4-70x70@2x.png 140w, https://promo-theme.com/plaxer/wp-content/uploads/2019/12/game-team-logo4-100x100@2x.png 200w" width="150"></div>
-                          <div class="title">
-                            GERTO
-                          </div>
-                          <div class="points">
-                            100
-                          </div>
-                        </div>
-                      </div>
-                      <div class="content">
-                        <div class="heading">
-                          <a class="link" href="match/esport-league-cs-go-division/index.html">eSport League &#8211; CS GO Division</a>
-                        </div>
-                        <div class="date">
-                          Dec.25.2020 - 4:00 pm
-                        </div>
-                      </div>
-                    </div>
-                    <div class="links">
-                      <a class="stream-link twitch" href="https://github.com/tygrysco" target="_blank"><img src="images/pngwave1.png"></i><span>    GitHub</span></a>
-                    </div>
+                    <span> </span>
                   </div>
                 </div>
                   <div class="load-wrap isotope">
                       <div class="match-item event-box istp-item category-cs-go">
                           <div class="wrap">
                               <div class="game-team">
-                                  <div class="item">
-                                      <div class="sticker">
-                                          win
-                                      </div>
-                                      <div class="logo"><img alt="" class="attachment-thumbnail size-thumbnail" height="150" sizes="(max-width: 150px) 100vw, 150px" src="wp-content/uploads/2019/12/game-team-logo3-150x150.png" srcset="https://promo-theme.com/plaxer/wp-content/uploads/2019/12/game-team-logo3-150x150.png 150w, https://promo-theme.com/plaxer/wp-content/uploads/2019/12/game-team-logo3-150x150@2x.png 300w, https://promo-theme.com/plaxer/wp-content/uploads/2019/12/game-team-logo3-70x70.png 70w, https://promo-theme.com/plaxer/wp-content/uploads/2019/12/game-team-logo3-100x100.png 100w, https://promo-theme.com/plaxer/wp-content/uploads/2019/12/game-team-logo3.png 512w, https://promo-theme.com/plaxer/wp-content/uploads/2019/12/game-team-logo3-70x70@2x.png 140w, https://promo-theme.com/plaxer/wp-content/uploads/2019/12/game-team-logo3-100x100@2x.png 200w" width="150"></div>
-                                      <div class="title">
-                                          CLIKLAV
-                                      </div>
-                                      <div class="points">
-                                          136
-                                      </div>
-                                  </div>
-
-
+                                  <img src="images/kobe.png">
                               </div>
                               <div class="content">
                                   <div class="heading">
-                                      <a class="link" href="match/esport-league-cs-go-division/index.html">eSport League &#8211; CS GO Division</a>
+                                      <a class="link" >Hasan</a>
                                   </div>
-                                  <div class="date">
-                                      Dec.25.2020 - 4:00 pm
+                              </div>
+                          </div>
+                          <div class="links">
+                              <a class="stream-link twitch" href="https://github.com/tygrysco" target="_blank"><img src="images/pngwave1.png"></i><span>    GitHub</span></a>
+                          </div>
+                      </div>
+                  </div>
+                  <div class="load-wrap isotope">
+                      <div class="match-item event-box istp-item category-cs-go">
+                          <div class="wrap">
+                              <div class="game-team">
+                                  <img src="images/kobe.png">
+                              </div>
+                              <div class="content">
+                                  <div class="heading">
+                                      <a class="link" >Ahsen</a>
                                   </div>
                               </div>
                           </div>
@@ -453,9 +411,6 @@
                       </div>
                   </div>
 
-                  <div class="loadmore-button-block tac">
-                  <a class="loadmore-button button-style2" data-action="matches" data-array="[{&quot;id&quot;:2391,&quot;cat&quot;:[&quot;fortnite&quot;]},{&quot;id&quot;:2392,&quot;cat&quot;:[&quot;pubg&quot;]}]" data-atts="{&quot;uniqid&quot;:&quot;5dea249adb32b&quot;,&quot;count&quot;:&quot;4&quot;,&quot;filter_buttons&quot;:&quot;on&quot;,&quot;navigation&quot;:&quot;load_more&quot;,&quot;css_animation&quot;:&quot;&quot;,&quot;orderby&quot;:&quot;post__in&quot;,&quot;order&quot;:&quot;ASC&quot;,&quot;source&quot;:&quot;&quot;,&quot;items&quot;:&quot;&quot;,&quot;categories&quot;:&quot;&quot;,&quot;css&quot;:&quot;{``mobile_portrait``: {``undefined``: ``Clear``},``mobile_landscape``: {``undefined``: ``Clear``},``tablet_portrait``: {``margin-top``: ``-65``,``undefined``: ``Clear``},``tablet_landscape``: {``undefined``: ``Clear``},``desktop``: {``undefined``: ``Clear``}}&quot;}" data-count="4" data-magic-cursor="link"><span>Load More</span> <span class="load-dots"><em></em></span></a>
-                </div>
               </div>
             </div>
           </div>
@@ -463,7 +418,7 @@
       </div>
       <div class="vc_row wpb_row vc_row-fluid vc_row-5dede58f0c913" data-vc-full-width="true" data-vc-full-width-init="false">
         <div class="bg-overlay">
-          <div class="parallax-image" data-position="50% 100%"><img alt="parallax" class="jarallax-img" src="wp-content/uploads/2019/12/img14.jpg"></div>
+          <div class="parallax-image" data-position="50% 100%"><img alt="parallax" class="jarallax-img" src="images/gallery/a.jpg"></div>
         </div>
         <div class="wpb_column vc_column_container vc_col-sm-12 vc_column_container-5edb7943a2433">
           <div class="vc_column-inner">

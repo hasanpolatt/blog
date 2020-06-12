@@ -222,21 +222,18 @@ want the best for their business.</h5>
     <div class="vc_row wpb_row vc_row-fluid vc_row-5def75d5a7bf0">
     
     <div class="wpb_column vc_column_container vc_col-sm-12 vc_column_container-5edb8d7477657"><div class="vc_column-inner "><div class="wpb_wrapper">      <div class="heading-block heading-5def72e3d2dd2 tal h-h3">
-                  <h3 class="h">Our Team</h3>
+                  <h3 class="h">Bizim Takım</h3>
               </div>
         <div class="team-block team-carousel-5edb8d747778f">
-              <div class="nav-arrows">
-          <div class="prev base-icon-back"></div>
-          <div class="next base-icon-next-1"></div>
-        </div>
+
             <div class="swiper-container">
         <div class="swiper-wrapper">
               <div class="team-item swiper-slide team-item-5def6e44bcbab">
-      <div class="avatar" style="background-image: url(wp-content/uploads/2019/12/team1.jpg);">
+      <div class="avatar" style="background-image: url(images/kobe.png);">
                   <a class="link" href="#" target="_self">View Profile</a>
               </div>
       <div class="bottom">
-                <div class="name">Dora Soren</div>
+                <div class="name">Hasan</div>
                 <div class="social-links"><a href="#" target="_self"><i class="base-icon-instagram-social-network-logo-of-photo-camera"></i></a><a href="#" target="_self"><i class="fab fa-twitter"></i></a><a href="#" target="_self"><i class="fab fa-facebook-f"></i></a></div>
       </div>
     </div>
@@ -249,42 +246,7 @@ want the best for their business.</h5>
                 <div class="social-links"><a href="#" target="_self"><i class="base-icon-instagram-social-network-logo-of-photo-camera"></i></a><a href="#" target="_self"><i class="fab fa-twitter"></i></a><a href="#" target="_self"><i class="fab fa-facebook-f"></i></a></div>
       </div>
     </div>
-        <div class="team-item swiper-slide team-item-5def6e9a57187">
-      <div class="avatar" style="background-image: url(wp-content/uploads/2019/12/team3.jpg);">
-                  <a class="link" href="#" target="_self">View Profile</a>
-              </div>
-      <div class="bottom">
-                <div class="name">Tony Johns</div>
-                <div class="social-links"><a href="#" target="_self"><i class="base-icon-instagram-social-network-logo-of-photo-camera"></i></a><a href="#" target="_self"><i class="fab fa-twitter"></i></a><a href="#" target="_self"><i class="fab fa-facebook-f"></i></a></div>
-      </div>
-    </div>
-        <div class="team-item swiper-slide team-item-5def6ea653729">
-      <div class="avatar" style="background-image: url(wp-content/uploads/2019/12/team4.jpg);">
-                  <a class="link" href="#" target="_self">View Profile</a>
-              </div>
-      <div class="bottom">
-                <div class="name">Andry Lincoln</div>
-                <div class="social-links"><a href="#" target="_self"><i class="base-icon-instagram-social-network-logo-of-photo-camera"></i></a><a href="#" target="_self"><i class="fab fa-twitter"></i></a><a href="#" target="_self"><i class="fab fa-facebook-f"></i></a></div>
-      </div>
-    </div>
-        <div class="team-item swiper-slide team-item-5def6eb1f8323">
-      <div class="avatar" style="background-image: url(wp-content/uploads/2019/12/team5.jpg);">
-                  <a class="link" href="#" target="_self">View Profile</a>
-              </div>
-      <div class="bottom">
-                <div class="name">Jane Monge</div>
-                <div class="social-links"><a href="#" target="_self"><i class="base-icon-instagram-social-network-logo-of-photo-camera"></i></a><a href="#" target="_self"><i class="fab fa-twitter"></i></a><a href="#" target="_self"><i class="fab fa-facebook-f"></i></a></div>
-      </div>
-    </div>
-        <div class="team-item swiper-slide team-item-5def6eecb65b5">
-      <div class="avatar" style="background-image: url(wp-content/uploads/2019/12/team6.jpg);">
-                  <a class="link" href="#" target="_self">View Profile</a>
-              </div>
-      <div class="bottom">
-                <div class="name">Zackery Stiedemann</div>
-                <div class="social-links"><a href="#" target="_self"><i class="base-icon-instagram-social-network-logo-of-photo-camera"></i></a><a href="#" target="_self"><i class="fab fa-twitter"></i></a><a href="#" target="_self"><i class="fab fa-facebook-f"></i></a></div>
-      </div>
-    </div>
+
             </div>
       </div>
     </div>
@@ -292,105 +254,50 @@ want the best for their business.</h5>
     
     <div class="vc_row wpb_row vc_row-fluid vc_row-5edb8d7479d21">
     
-    <div class="wpb_column vc_column_container vc_col-sm-12 vc_column_container-5edb8d7479e9d"><div class="vc_column-inner "><div class="wpb_wrapper">      <div class="heading-block heading-5edb8d7479f9f tal h-h3">
-                  <h3 class="h">Best moments</h3>
-              </div>
-          <div class="streams-block filter-block streams-block-5def3aabf04c6">
-                  <div class="filter-buttons tar">
-            <div class="wrap">
-              <button class="button current" data-filter="*" data-magic-cursor="link-small">
-                <span>All</span>
-              </button>
-                              <button class="button" data-filter=".category-cs-go" data-magic-cursor="link-small">
-                  <span>CS GO</span>
-                </button>
-                              <button class="button" data-filter=".category-fortnite" data-magic-cursor="link-small">
-                  <span>Fortnite</span>
-                </button>
-                              <button class="button" data-filter=".category-dota-2" data-magic-cursor="link-small">
-                  <span>Dota 2</span>
-                </button>
-                          </div>
-          </div>
-                <div class="load-wrap isotope">
-              <div class="stream-item event-box istp-item stream-5def3aca1ae7b category-cs-go">
-      <div class="wrap">
-                  <div class="image"><div style="background-image: url(wp-content/uploads/2019/12/img25.jpg);"></div></div>
-                <div class="content">
-                      <div class="heading">
-              eSport League - CS GO Division            </div>
-                      <div class="date">Dec.06.2019 - 02:30 pm</div>
-                  </div>
-      </div>
-              <div class="links">
-                      <a href="#" target="_self" class="stream-link twitch"><i class="base-icon-twitch"></i><span>twitch stream</span></a>
-                  </div>
-          </div>
-        <div class="stream-item event-box istp-item stream-5def3b199ea50 category-cs-go">
-      <div class="wrap">
-                  <div class="image"><div style="background-image: url(wp-content/uploads/2019/12/img26.jpg);"></div></div>
-                <div class="content">
-                      <div class="heading">
-              eSport League - CS GO Division            </div>
-                      <div class="date">Apr.03.2020 - 10:26 am</div>
-                  </div>
-      </div>
-              <div class="links">
-                      <a href="#" target="_self" class="stream-link twitch"><i class="base-icon-twitch"></i><span>twitch stream</span></a>
-                      <a href="#" target="_self" class="stream-link youtube"><i class="base-icon-youtube"></i><span>youtube stream</span></a>
-                  </div>
-          </div>
-        <div class="stream-item event-box istp-item stream-5def3b45dd062 category-fortnite">
-      <div class="wrap">
-                  <div class="image"><div style="background-image: url(wp-content/uploads/2019/12/img24.jpg);"></div></div>
-                <div class="content">
-                      <div class="heading">
-              eSport League - Fortnite            </div>
-                      <div class="date">Feb.13.2020 - 10:26 am</div>
-                  </div>
-      </div>
-              <div class="links">
-                      <a href="#" target="_self" class="stream-link youtube"><i class="base-icon-youtube"></i><span>youtube stream</span></a>
-                  </div>
-          </div>
-        <div class="stream-item event-box istp-item stream-5def3b900e552 category-fortnite">
-      <div class="wrap">
-                  <div class="image"><div style="background-image: url(wp-content/uploads/2019/12/img30.jpg);"></div></div>
-                <div class="content">
-                      <div class="heading">
-              eSport League - Fortnite            </div>
-                      <div class="date">Feb.07.2020 - 10:26 am</div>
-                  </div>
-      </div>
-              <div class="links">
-                      <a href="#" target="_self" class="stream-link twitch"><i class="base-icon-twitch"></i><span>twitch stream</span></a>
-                      <a href="#" target="_self" class="stream-link youtube"><i class="base-icon-youtube"></i><span>youtube stream</span></a>
-                  </div>
-          </div>
-        <div class="stream-item event-box istp-item stream-5def3ba9dfdc2 category-dota-2">
-      <div class="wrap">
-                  <div class="image"><div style="background-image: url(wp-content/uploads/2019/12/img28.png);"></div></div>
-                <div class="content">
-                      <div class="heading">
-              eSport League - Dota 2            </div>
-                      <div class="date">Dec.27.2019 - 10:26 am</div>
-                  </div>
-      </div>
-              <div class="links">
-                      <a href="#" target="_self" class="stream-link twitch"><i class="base-icon-twitch"></i><span>twitch stream</span></a>
-                  </div>
-          </div>
+    <div class="wpb_column vc_column_container vc_col-sm-12 vc_column_container-5edb8d7479e9d"><div class="wpb_wrapper">
+            <div class="heading-block heading-5dede3c437d5f tal h-h3">
+                <h3 class="h">Latest matches</h3>
             </div>
-                  <div class="loadmore-button-block tac">
-            <a class="loadmore-button button-style2" data-action="streams" data-array="[{&quot;game&quot;:&quot;Dota 2&quot;,&quot;uniqid&quot;:&quot;5def3bd73240f&quot;,&quot;image&quot;:&quot;1701&quot;,&quot;heading&quot;:&quot;eSport League - Dota 2&quot;,&quot;event_date&quot;:&quot;Dec.27.2019 - 10:26 am&quot;,&quot;twitch_stream&quot;:&quot;url:%23|||&quot;,&quot;cat&quot;:[&quot;dota-2&quot;]}]" data-atts="{&quot;uniqid&quot;:&quot;5def3aabf04c6&quot;,&quot;count&quot;:&quot;5&quot;,&quot;filter_buttons&quot;:&quot;on&quot;,&quot;navigation&quot;:&quot;load_more&quot;,&quot;css_animation&quot;:&quot;&quot;,&quot;css&quot;:&quot;{``mobile_portrait``: {``undefined``: ``Clear``},``mobile_landscape``: {``undefined``: ``Clear``},``tablet_portrait``: {``margin-top``: ``-65``,``undefined``: ``Clear``},``tablet_landscape``: {``undefined``: ``Clear``},``desktop``: {``undefined``: ``Clear``}}&quot;}" data-count="5" data-magic-cursor="link">
-              <span>Load More</span>
-              <span class="load-dots">
-                <em></em>
-              </span>
-            </a>
-          </div>
-              </div>
-    </div></div></div></div>
+            <div class="matches-block filter-block matches-block-5dea249adb32b">
+                <div class="filter-buttons tar">
+                    <div class="wrap">
+                        <span> </span>
+                    </div>
+                </div>
+                <div class="load-wrap isotope">
+                    <div class="match-item event-box istp-item category-cs-go">
+                        <div class="wrap">
+                            <div class="game-team">
+                                <img src="images/kobe.png">
+                            </div>
+                            <div class="content">
+                                <div class="heading">
+                                    <a class="link" >Hasan</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="links">
+                            <a class="stream-link twitch" href="https://github.com/tygrysco" target="_blank"><img src="images/pngwave1.png"></i><span>    GitHub</span></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="load-wrap isotope">
+                    <div class="match-item event-box istp-item category-cs-go">
+                        <div class="wrap">
+                            <div class="game-team">
+                                <img src="images/kobe.png">
+                            </div>
+                            <div class="content">
+                                <div class="heading">
+                                    <a class="link" >Ahsen</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="links">
+                            <a class="stream-link twitch" href="https://github.com/g3ntl3m3n" target="_blank"><img src="images/pngwave1.png"></i><span>    GitHub</span></a>
+                        </div>
+                    </div>
+                </div></div></div></div>
     
     <div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid vc_row-5dee174da9d78 vc_row-no-padding">
     

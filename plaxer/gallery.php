@@ -142,7 +142,7 @@
 									<div class="portfolio-block filter-block portfolio-5df0bb64e34cd popup-gallery gap-on portfolio-type-grid">
 										<div class="filter-buttons tal style1">
 											<div class="container wrap">
-												<button class="button current" data-filter="*" data-magic-cursor="link-small"><span>All</span></button> <button class="button" data-filter=".category-cs-go" data-magic-cursor="link-small"><span>CS GO</span></button> <button class="button" data-filter=".category-dota-2" data-magic-cursor="link-small"><span>Dota 2</span></button> <button class="button" data-filter=".category-fortnite" data-magic-cursor="link-small"><span>Fortnite</span></button> <button class="button" data-filter=".category-pubg" data-magic-cursor="link-small"><span>PUBG</span></button> <button class="button" data-filter=".category-streams" data-magic-cursor="link-small"><span>Streams</span></button>
+												<button class="button current" data-filter="*" data-magic-cursor="link-small"><span>Hepsi</span></button> <button class="button" data-filter=".category-cs-go" data-magic-cursor="link-small"><span>Oyun</span></button> <button class="button" data-filter=".category-dota-2" data-magic-cursor="link-small"><span>Kodlama</span></button> <button class="button" data-filter=".category-fortnite" data-magic-cursor="link-small"><span>Teknoloji</span></button> <button class="button" data-filter=".category-pubg" data-magic-cursor="link-small"><span>Haber</span></button>
 											</div>
 										</div>
 										<div class="load-wrap row isotope">
@@ -160,67 +160,6 @@
 													</div><a class="link" data-id="1" data-magic-cursor="link-w-text" data-magic-cursor-text="Play" data-size="1920x1080" data-type="video" data-video='&lt;div class="wrapper"&gt;&lt;div class="video-wrapper"&gt;&lt;iframe class="pswp__video" width="1920" height="1080" src="https://youtube.com/embed/1jWCXJfxHQM?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;' href="#"></a>
 												</div>
 											</article>
-											<article class="portfolio-item category-dota-2 popup-item col-12 col-sm-6 col-md-4 istp-item">
-												<div class="wrap">
-													<a class="plus-permalink permalink" href="project/the-last-men/index.html"><i class="essential-set-add"></i><span>open project</span></a>
-													<div class="img" style="background-image: url(wp-content/uploads/2019/12/img2.jpg)"></div>
-													<div class="content">
-														<h6 class="title">The Last Men</h6>
-														<div class="desc">
-															At the end of last year, Bumblebee em...
-														</div>
-													</div><a class="link" data-id="2" data-magic-cursor="link-w-text" data-magic-cursor-text="View" data-size="2500x1667" href="wp-content/uploads/2019/12/img2.jpg"></a>
-												</div>
-											</article>
-											<article class="portfolio-item category-cs-go popup-item col-12 col-sm-6 col-md-4 istp-item">
-												<div class="wrap">
-													<a class="plus-permalink permalink" href="project/skyfall/index.html"><i class="essential-set-add"></i><span>open project</span></a>
-													<div class="img" style="background-image: url(wp-content/uploads/2019/12/img3.jpg)"></div>
-													<div class="content">
-														<h6 class="title">Skyfall</h6>
-														<div class="desc">
-															At the end of last year, Bumblebee em...
-														</div>
-													</div><a class="link" data-id="3" data-magic-cursor="link-w-text" data-magic-cursor-text="View" data-size="2500x1667" href="wp-content/uploads/2019/12/img3.jpg"></a>
-												</div>
-											</article>
-											<article class="portfolio-item category-fortnite popup-item col-12 col-sm-6 col-md-4 istp-item">
-												<div class="wrap">
-													<a class="plus-permalink permalink" href="project/wasteland/index.html"><i class="essential-set-add"></i><span>open project</span></a>
-													<div class="img" style="background-image: url(wp-content/uploads/2019/12/img4.jpg)"></div>
-													<div class="content">
-														<h6 class="title">Wasteland</h6>
-														<div class="desc">
-															At the end of last year, Bumblebee em...
-														</div>
-													</div><a class="link" data-id="4" data-magic-cursor="link-w-text" data-magic-cursor-text="View" data-size="2500x1667" href="wp-content/uploads/2019/12/img4.jpg"></a>
-												</div>
-											</article>
-											<article class="portfolio-item category-cs-go popup-item col-12 col-sm-6 col-md-4 istp-item">
-												<div class="wrap">
-													<a class="plus-permalink permalink" href="project/found-bride/index.html"><i class="essential-set-add"></i><span>open project</span></a>
-													<div class="img" style="background-image: url(wp-content/uploads/2019/12/img5.jpg)"></div>
-													<div class="content">
-														<h6 class="title">Found Bride</h6>
-														<div class="desc">
-															At the end of last year, Bumblebee em...
-														</div>
-													</div><a class="link" data-id="5" data-magic-cursor="link-w-text" data-magic-cursor-text="View" data-size="2500x1667" href="wp-content/uploads/2019/12/img5.jpg"></a>
-												</div>
-											</article>
-											<article class="portfolio-item category-dota-2 popup-item col-12 col-sm-6 col-md-4 istp-item">
-												<div class="wrap">
-													<a class="plus-permalink permalink" href="project/reckoner/index.html"><i class="essential-set-add"></i><span>open project</span></a>
-													<div class="with-video base-icon-play-button-2"></div>
-													<div class="img" style="background-image: url(wp-content/uploads/2019/12/img6.jpg)"></div>
-													<div class="content">
-														<h6 class="title">Reckoner</h6>
-														<div class="desc">
-															At the end of last year, Bumblebee em...
-														</div>
-													</div><a class="link" data-id="6" data-magic-cursor="link-w-text" data-magic-cursor-text="Play" data-size="1920x1080" data-type="video" data-video='&lt;div class="wrapper"&gt;&lt;div class="video-wrapper"&gt;&lt;iframe class="pswp__video" width="1920" height="1080" src="https://youtube.com/embed/_ahSDVzjNMw?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;' href="#"></a>
-												</div>
-											</article>
 											<article class="portfolio-item category-fortnite category-pubg popup-item col-12 col-sm-6 col-md-4 istp-item">
 												<div class="wrap">
 													<a class="plus-permalink permalink" href="project/the-tourist/index.html"><i class="essential-set-add"></i><span>open project</span></a>
@@ -233,34 +172,10 @@
 													</div><a class="link" data-id="7" data-magic-cursor="link-w-text" data-magic-cursor-text="View" data-size="2500x1723" href="wp-content/uploads/2019/12/img7.jpg"></a>
 												</div>
 											</article>
-											<article class="portfolio-item category-pubg popup-item col-12 col-sm-6 col-md-4 istp-item">
-												<div class="wrap">
-													<a class="plus-permalink permalink" href="project/optimistic/index.html"><i class="essential-set-add"></i><span>open project</span></a>
-													<div class="img" style="background-image: url(wp-content/uploads/2019/12/img8.jpg)"></div>
-													<div class="content">
-														<h6 class="title">Optimistic</h6>
-														<div class="desc">
-															At the end of last year, Bumblebee em...
-														</div>
-													</div><a class="link" data-id="8" data-magic-cursor="link-w-text" data-magic-cursor-text="View" data-size="2500x1668" href="wp-content/uploads/2019/12/img8.jpg"></a>
-												</div>
-											</article>
-											<article class="portfolio-item category-cs-go popup-item col-12 col-sm-6 col-md-4 istp-item">
-												<div class="wrap">
-													<a class="plus-permalink permalink" href="project/let-down/index.html"><i class="essential-set-add"></i><span>open project</span></a>
-													<div class="with-video base-icon-play-button-2"></div>
-													<div class="img" style="background-image: url(wp-content/uploads/2019/12/img9.jpg)"></div>
-													<div class="content">
-														<h6 class="title">Let Down</h6>
-														<div class="desc">
-															At the end of last year, Bumblebee em...
-														</div>
-													</div><a class="link" data-id="9" data-magic-cursor="link-w-text" data-magic-cursor-text="Play" data-size="1920x1080" data-type="video" data-video='&lt;div class="wrapper"&gt;&lt;div class="video-wrapper"&gt;&lt;iframe class="pswp__video" width="1920" height="1080" src="https://youtube.com/embed/voB-K4AX9xA?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;' href="#"></a>
-												</div>
-											</article>
+
 										</div>
 										<div class="loadmore-button-block tac">
-											<a class="loadmore-button button-style2" data-action="portfolio" data-array="[{&quot;id&quot;:378,&quot;cat&quot;:[&quot;dota-2&quot;]},{&quot;id&quot;:377,&quot;cat&quot;:[&quot;cs-go&quot;]},{&quot;id&quot;:382,&quot;cat&quot;:[&quot;pubg&quot;]},{&quot;id&quot;:381,&quot;cat&quot;:[&quot;pubg&quot;]},{&quot;id&quot;:380,&quot;cat&quot;:[&quot;fortnite&quot;]},{&quot;id&quot;:379,&quot;cat&quot;:[&quot;fortnite&quot;]},{&quot;id&quot;:390,&quot;cat&quot;:[&quot;fortnite&quot;]},{&quot;id&quot;:383,&quot;cat&quot;:[&quot;pubg&quot;]},{&quot;id&quot;:389,&quot;cat&quot;:[&quot;fortnite&quot;]},{&quot;id&quot;:388,&quot;cat&quot;:[&quot;pubg&quot;]},{&quot;id&quot;:387,&quot;cat&quot;:[&quot;fortnite&quot;]},{&quot;id&quot;:386,&quot;cat&quot;:[&quot;cs-go&quot;]},{&quot;id&quot;:1460,&quot;cat&quot;:[&quot;streams&quot;]},{&quot;id&quot;:1461,&quot;cat&quot;:[&quot;streams&quot;]},{&quot;id&quot;:1462,&quot;cat&quot;:[&quot;pubg&quot;]},{&quot;id&quot;:1678,&quot;cat&quot;:[&quot;streams&quot;]},{&quot;id&quot;:1679,&quot;cat&quot;:[&quot;streams&quot;]},{&quot;id&quot;:1680,&quot;cat&quot;:[&quot;streams&quot;]},{&quot;id&quot;:1681,&quot;cat&quot;:[&quot;streams&quot;]},{&quot;id&quot;:1682,&quot;cat&quot;:[&quot;streams&quot;]},{&quot;id&quot;:1708,&quot;cat&quot;:[&quot;streams&quot;]}]" data-atts="{&quot;uniqid&quot;:&quot;5df0bb64e34cd&quot;,&quot;count_items&quot;:&quot;9&quot;,&quot;type&quot;:&quot;grid&quot;,&quot;packery_style&quot;:&quot;type1&quot;,&quot;cols&quot;:&quot;xs:1,sm:2,md:3,&quot;,&quot;gap&quot;:&quot;on&quot;,&quot;filter_buttons&quot;:&quot;on&quot;,&quot;filter_buttons_style&quot;:&quot;style1&quot;,&quot;filter_buttons_align&quot;:&quot;tal&quot;,&quot;navigation&quot;:&quot;load_more&quot;,&quot;popup_mode&quot;:&quot;on&quot;,&quot;thumb_size&quot;:&quot;&quot;,&quot;hover&quot;:&quot;default&quot;,&quot;open_project_link&quot;:&quot;on&quot;,&quot;css_animation&quot;:&quot;&quot;,&quot;slider_loop&quot;:&quot;on&quot;,&quot;slider_autoplay&quot;:&quot;on&quot;,&quot;slider_autoplay_timeout&quot;:&quot;5000&quot;,&quot;slider_arrows&quot;:&quot;on&quot;,&quot;slider_counter&quot;:&quot;on&quot;,&quot;orderby&quot;:&quot;post__in&quot;,&quot;order&quot;:&quot;ASC&quot;,&quot;source&quot;:&quot;&quot;,&quot;items&quot;:&quot;&quot;,&quot;categories&quot;:&quot;&quot;,&quot;css&quot;:&quot;&quot;}" data-count="9" data-magic-cursor="link" data-type="grid"><span>Load More</span> <span class="load-dots"><em></em></span></a>
+											<a class="loadmore-button button-style2" data-action="portfolio" data-array="[{&quot;id&quot;:378,&quot;cat&quot;:[&quot;dota-2&quot;]},{&quot;id&quot;:377,&quot;cat&quot;:[&quot;cs-go&quot;]},{&quot;id&quot;:382,&quot;cat&quot;:[&quot;pubg&quot;]},{&quot;id&quot;:381,&quot;cat&quot;:[&quot;pubg&quot;]},{&quot;id&quot;:380,&quot;cat&quot;:[&quot;fortnite&quot;]},{&quot;id&quot;:379,&quot;cat&quot;:[&quot;fortnite&quot;]},{&quot;id&quot;:390,&quot;cat&quot;:[&quot;fortnite&quot;]},{&quot;id&quot;:383,&quot;cat&quot;:[&quot;pubg&quot;]},{&quot;id&quot;:389,&quot;cat&quot;:[&quot;fortnite&quot;]},{&quot;id&quot;:388,&quot;cat&quot;:[&quot;pubg&quot;]},{&quot;id&quot;:387,&quot;cat&quot;:[&quot;fortnite&quot;]},{&quot;id&quot;:386,&quot;cat&quot;:[&quot;cs-go&quot;]},{&quot;id&quot;:1460,&quot;cat&quot;:[&quot;streams&quot;]},{&quot;id&quot;:1461,&quot;cat&quot;:[&quot;streams&quot;]},{&quot;id&quot;:1462,&quot;cat&quot;:[&quot;pubg&quot;]},{&quot;id&quot;:1678,&quot;cat&quot;:[&quot;streams&quot;]},{&quot;id&quot;:1679,&quot;cat&quot;:[&quot;streams&quot;]},{&quot;id&quot;:1680,&quot;cat&quot;:[&quot;streams&quot;]},{&quot;id&quot;:1681,&quot;cat&quot;:[&quot;streams&quot;]},{&quot;id&quot;:1682,&quot;cat&quot;:[&quot;streams&quot;]},{&quot;id&quot;:1708,&quot;cat&quot;:[&quot;streams&quot;]}]" data-atts="{&quot;uniqid&quot;:&quot;5df0bb64e34cd&quot;,&quot;count_items&quot;:&quot;9&quot;,&quot;type&quot;:&quot;grid&quot;,&quot;packery_style&quot;:&quot;type1&quot;,&quot;cols&quot;:&quot;xs:1,sm:2,md:3,&quot;,&quot;gap&quot;:&quot;on&quot;,&quot;filter_buttons&quot;:&quot;on&quot;,&quot;filter_buttons_style&quot;:&quot;style1&quot;,&quot;filter_buttons_align&quot;:&quot;tal&quot;,&quot;navigation&quot;:&quot;load_more&quot;,&quot;popup_mode&quot;:&quot;on&quot;,&quot;thumb_size&quot;:&quot;&quot;,&quot;hover&quot;:&quot;default&quot;,&quot;open_project_link&quot;:&quot;on&quot;,&quot;css_animation&quot;:&quot;&quot;,&quot;slider_loop&quot;:&quot;on&quot;,&quot;slider_autoplay&quot;:&quot;on&quot;,&quot;slider_autoplay_timeout&quot;:&quot;5000&quot;,&quot;slider_arrows&quot;:&quot;on&quot;,&quot;slider_counter&quot;:&quot;on&quot;,&quot;orderby&quot;:&quot;post__in&quot;,&quot;order&quot;:&quot;ASC&quot;,&quot;source&quot;:&quot;&quot;,&quot;items&quot;:&quot;&quot;,&quot;categories&quot;:&quot;&quot;,&quot;css&quot;:&quot;&quot;}" data-count="9" data-magic-cursor="link" data-type="grid"><span>Daha Fazla</span> <span class="load-dots"><em></em></span></a>
 										</div>
 									</div>
 								</div>
